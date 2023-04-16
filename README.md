@@ -1,2 +1,2 @@
 # info
-This repository only contains links to my music profiles. 
+This repository contains links to my music profiles. 
